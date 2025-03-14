@@ -4,8 +4,11 @@ The game allows the user to play against the computer, where the player enters t
 Game Features
 
 ✅ Simple and easy implementation in C++.
+
 ✅ Uses random generation for the computer's choice.
+
 ✅ Determines the winner based on traditional rules.
+
 ✅ Option to replay after each round.
 
 How to Play
